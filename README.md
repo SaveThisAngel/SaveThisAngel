@@ -1,8 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Benjamin 👋</h1>
 </div>
-<img align="center" src="https://i.redd.it/bk9mt0spt9631.gif">
-
+<div align="center">
+  <img src="https://i.redd.it/bk9mt0spt9631.gif">
+</div>
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
