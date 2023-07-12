@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Benjamin 👋</h1>
 </div>
-<img src="https://i.redd.it/bk9mt0spt9631.gif">
+<img align="center" src="https://i.redd.it/bk9mt0spt9631.gif">
 
 ## Sobre mi
 
